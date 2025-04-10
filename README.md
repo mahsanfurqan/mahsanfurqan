@@ -1,6 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Hi+I'm+Achan+%F0%9F%91%8B;Flutter+%7C+React+Native+%7C+.NET+Developer;Love+to+build+and+design+apps!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
 # 👋 Hi, I'm M. Ahsan Furqan (Achan)
 
-Welcome to my GitHub!  
 I'm a tech enthusiast with a strong passion for mobile development, UI/UX design, and building scalable backend systems. I love turning ideas into impactful digital experiences.
 
 ---
@@ -70,10 +79,18 @@ I'm a student, developer, and designer — passionate about learning new technol
 
 ---
 
-## 🌱 Let's Connect!
-- 📧 Email: ahsanfurkab@gmail.com / ahsanfurkab@student.ub.ac.id
-- 🔗 LinkedIn: https://www.linkedin.com/in/mahsanfurqan/
+## 📊 GitHub Stats
 
-> “Consistency over intensity. Keep building.” 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanfurqan&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanfurqan&layout=compact&theme=tokyonight" />
+</p>
 
 ---
+
+## 🌱 Let's Connect!
+- 📧 Email: ahsanfurkab@gmail.com / ahsanfurkab@student.ub.ac.id  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/mahsanfurqan/](https://www.linkedin.com/in/mahsanfurqan/)
+
+> “Consistency over intensity. Keep building.” 🚀
