@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Hi+I'm+Achan+%F0%9F%91%8B;Flutter+%7C+React+Native+%7C+.NET+Developer;Love+to+build+and+design+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Hi+I'm+Achan+%F0%9F%91%8B;Flutter+%7C+React+Native+%7C+.NET+Developer;Love+to+build+and+design+apps!" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
 <br><br>
+
 
 ---
 
