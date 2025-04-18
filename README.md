@@ -84,13 +84,8 @@ I'm a student, developer, and designer — passionate about learning new technol
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanfurqan&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanfurqan&layout=compact&theme=tokyonight" />
-</p>
+### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahsanfurqan&show_icons=true&count_private=true&theme=tokyonight" alt="Statistik GitHub mahsanfurqan" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanfurqan&layout=compact&theme=tokyonight" alt="Bahasa Teratas mahsanfurqan" /> </p>
 
 ---
 
