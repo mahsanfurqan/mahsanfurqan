@@ -94,3 +94,4 @@ I'm a student, developer, and designer — passionate about learning new technol
 - 🔗 LinkedIn: [https://www.linkedin.com/in/mahsanfurqan/](https://www.linkedin.com/in/mahsanfurqan/)
 
 > “Consistency over intensity. Keep building.” 🚀
+
